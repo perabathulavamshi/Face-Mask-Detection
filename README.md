@@ -51,17 +51,6 @@ The Face Mask Detection System is a real-time application that detects whether a
 
 ---
 
-## 📁 Repository Structure
-```
-|-- data/                     # Dataset files
-|-- scripts/                  # Python scripts for detection and training
-|-- visualizations/           # Example images and detection results
-|-- README.md                 # Project overview and instructions
-|-- major project final.py    # Main script for face mask detection
-```
-
----
-
 ## 📩 Contact
 For questions or collaboration:
 
