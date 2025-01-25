@@ -55,5 +55,5 @@ The Face Mask Detection System is a real-time application that detects whether a
 For questions or collaboration:
 
 **Name**: Vamshi Krishna Perabathula  
-**Email**: [v_perabathula@u.pacific.edu](mailto:v_perabathula@u.pacific.edu)  
+**Email**: [vamshikrish485@gmail.com](mailto:vamshikrish485@gmail.com)  
 **LinkedIn**: [Vamshi Krishna Perabathula](https://www.linkedin.com/in/vk-perabathula/)
